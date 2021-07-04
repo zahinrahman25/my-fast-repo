@@ -1,9 +1,10 @@
 h3{color: royalblue;}
-h3{color: hotpink;
-text-align: center;}
+h3{color: hotpink;}
 p{text-align: justify;}
 .lol{
     border-radius: 2cm;
     background-color: lightskyblue;
-    color: orangered;}
+    color: orangered;
+text-align: center;
+margin-left: 5cm;}
     
